@@ -3,6 +3,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Neue Montreal";
+    scroll-behavior: smooth;
+
 }
 
 html, body{
